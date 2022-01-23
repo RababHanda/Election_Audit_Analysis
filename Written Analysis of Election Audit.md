@@ -66,10 +66,3 @@ In this report we only determine the turnout per county and the votes per candid
             votes_county_candidate[county_name][candidate_name] += 1
 
     ```
-
-### Modification Suggestions
-
-| Objective | Modificaion |
-| --- | --- |
-| Votes cast per candidate from each county | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
